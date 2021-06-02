@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "astronomy-app-c94",
+    "slug": "snack-c95a4574-ecb5-4dc3-ab0a-d2211b385ae4",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.oshinarora.snackc95a4574ecb54dc3ab0ad2211b385ae4"
+    }
+  }
+}
